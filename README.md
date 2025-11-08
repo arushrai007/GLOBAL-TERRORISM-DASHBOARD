@@ -21,7 +21,7 @@
 
 *Nothing tells a story like seeing the interactivity live. Below is a demonstration of the slicers and dynamic charts.*
 
-[https://drive.google.com/drive/home](https://drive.google.com/file/d/19aS6Dhzp_RdRP3CaIuYobfYGJ3O-Zv0d/view?usp=sharing)
+![Dashboard Demo GIF](https://via.placeholder.com/800x450.png?text=[Insert+Animated+GIF+of+Dashboard+Here](https://drive.google.com/file/d/19aS6Dhzp_RdRP3CaIuYobfYGJ3O-Zv0d/view?usp=sharing))
 ---
 
 ## 🎯 The Mission
@@ -31,11 +31,10 @@ The threat of terrorism is a complex global issue. While data exists (GTD), its 
 
 ### 1️⃣ At-a-Glance Intelligence
 Instant KPIs providing a snapshot of the global situation for the selected period.
-> ![KPI Screenshot](https://via.placeholder.com/500x150.png?text=Screenshot+of+KPI+Headers)
 
 ### 2️⃣ Full Interactivity (Slicers)
 Dynamic filtering allows users to drill down by Year, Region, Attack Type, and Weapon.
-> ![Slicers Screenshot](https://via.placeholder.com/500x200.png?text=Screenshot+of+Slicer+Panel)
+[> ![Slicers Screenshot](https://via.placeholder.com/500x200.png?text=Screenshot+of+Slicer+Panel)](https://drive.google.com/file/d/1o71f3gfmAMEOi9irwhO2K-8FSRx3_x3c/view?usp=sharing)
 
 ### 3️⃣ Deep-Dive Visualizations
 * 📈 **Trend Analysis:** Line charts tracking incident frequency over time.
