@@ -21,10 +21,7 @@
 
 *Nothing tells a story like seeing the interactivity live. Below is a demonstration of the slicers and dynamic charts.*
 
-![Dashboard Demo GIF](https://via.placeholder.com/800x450.png?text=![1745515570034](https://github.com/user-attachments/assets/6edbc195-5ede-4bef-bf47-ed4e3d8eb246)
-)
-*(Tip: Record your screen while clicking the slicers and add the GIF here!)*
-
+[https://drive.google.com/drive/home](https://drive.google.com/file/d/19aS6Dhzp_RdRP3CaIuYobfYGJ3O-Zv0d/view?usp=sharing)
 ---
 
 ## 🎯 The Mission
