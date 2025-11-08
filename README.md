@@ -1,6 +1,5 @@
 # 📊 Global Terrorism Dashboard
 
-![Project Banner](https://via.placeholder.com/1000x300.png?text=Global+Terrorism+Database+Analysis)
 
 ![Tools](https://img.shields.io/badge/Tools-Microsoft_Excel-success?style=flat-square&logo=microsoft-excel)
 ![Data Source](https://img.shields.io/badge/Data-Global_Terrorism_Database-blue?style=flat-square)
@@ -20,9 +19,7 @@
 ## 🎥 Dashboard in Action
 
 *Nothing tells a story like seeing the interactivity live. Below is a demonstration of the slicers and dynamic charts.*
-
-![Dashboard Demo GIF](https://via.placeholder.com/800x450.png?text=[Insert+Animated+GIF+of+Dashboard+Here](https://drive.google.com/file/d/19aS6Dhzp_RdRP3CaIuYobfYGJ3O-Zv0d/view?usp=sharing))
----
+https://drive.google.com/file/d/19aS6Dhzp_RdRP3CaIuYobfYGJ3O-Zv0d/view?usp=sharing
 
 ## 🎯 The Mission
 The threat of terrorism is a complex global issue. While data exists (GTD), its raw format is overwhelming. This project bridges the gap between **raw data** and **actionable insight**, creating a tool accessible to researchers, policymakers, and students alike.
@@ -34,7 +31,7 @@ Instant KPIs providing a snapshot of the global situation for the selected perio
 
 ### 2️⃣ Full Interactivity (Slicers)
 Dynamic filtering allows users to drill down by Year, Region, Attack Type, and Weapon.
-[> ![Slicers Screenshot](https://via.placeholder.com/500x200.png?text=Screenshot+of+Slicer+Panel)](https://drive.google.com/file/d/1o71f3gfmAMEOi9irwhO2K-8FSRx3_x3c/view?usp=sharing)
+[[Slicers Screenshot](https://via.placeholder.com/500x200.png?text=Screenshot+of+Slicer+Panel)](https://drive.google.com/file/d/1o71f3gfmAMEOi9irwhO2K-8FSRx3_x3c/view?usp=sharing)
 
 ### 3️⃣ Deep-Dive Visualizations
 * 📈 **Trend Analysis:** Line charts tracking incident frequency over time.
